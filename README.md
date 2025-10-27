@@ -106,4 +106,4 @@ This will open an interactive inspector in your browser where you can:
 
 ## Acknowledgments
 
-This project was created as part of the [Hugging Face MCP Course](https://huggingface.co/learn/mcp-course). Special thanks to the Hugging Face team for providing excellent educational resources on building Model Context Protocol servers.
+This project was created as part of the [Hugging Face MCP Course](https://huggingface.co/learn/mcp-course). Special thanks to the Hugging Face team for providing excellent educational resources.
