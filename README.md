@@ -43,7 +43,7 @@ pr-agent-mcp/
 
 ### Required
 
-1. **Python 3.8+** and **uv** (Python package installer)
+1. **Python 3.10+** and **uv** (Python package installer)
    - Install uv: https://docs.astral.sh/uv/getting-started/installation/
 
 2. **Ollama** (for running local LLMs)
